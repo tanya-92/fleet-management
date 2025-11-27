@@ -1,7 +1,7 @@
 # 🚢 FleetX - Fleet Management System
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg" alt="FleetX Banner" width="100%" height="300" style="object-fit: cover; border-radius: 10px;">
+  
   
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Welcome+to+FleetX;Fleet+Management+System;Track+%26+Optimize+Routes;Real-time+Ship+Monitoring" alt="Typing SVG" />
@@ -209,7 +209,6 @@ graph TD
 We welcome contributions from the maritime technology community!
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg" alt="Contributing" width="500" style="border-radius: 10px;">
 </div>
 
 ### How to Contribute
